@@ -258,6 +258,7 @@ open class NextGrowingTextView: UIScrollView {
     _textView.text = saveText
     _textView.isHidden = false
 
+    //lets add some comments so that it will so in fork
     return height
   }
 }
